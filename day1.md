@@ -1,30 +1,43 @@
-# Day 1 – Initiation of The Promakhos Protocol
+# Day 1 – Declaration of Intent
 
-**Objective:**  
-To become a high-impact cybersecurity professional, blending offensive security skills, AI leverage, and continuous evolution. The goal is not just to get certified — but to become dangerous, respected, and well-compensated.
-
----
-
-**Today's Progress:**
-- Set up GitHub Pages as my public learning journal ✅
-- Completed the "Introduction to Cyber Security" room on TryHackMe
-- Started researching CEH learning paths and resources
+**Codename:** Promakhos  
+**Origin:** Unemployed, self-retraining into cybersecurity  
+**Objective:** Become the person companies call to break systems — and make them stronger.  
+**Strategy:** Ruthless learning. Public documentation. Visible proof of skill.
 
 ---
 
-**Top 3 Learnings:**
-1. Port scanning reveals service visibility and is fundamental to any initial recon phase.
-2. TCP vs UDP: TCP's handshake gives more feedback, making it more useful for scanning.
-3. Nmap is not a tool — it's a damn language. Learn it early, learn it deep.
+## 🎯 Goals
+
+- **Primary:** Achieve CEH certification with practical mastery, not just theory
+- **Secondary:** Build deep technical skills via hands-on labs (TryHackMe, HackTheBox); use AI as strategic leverage
+- **Tertiary:** Create a visible public portfolio via GitHub Pages + technical blog
 
 ---
 
-**Next Steps:**
-- Complete 2 more rooms on TryHackMe (Web Exploitation focus)
-- Install local pentesting lab (Kali Linux + DVWA)
-- Begin CEH Module 1 with full focus
+## 🛠️ Actions Completed Today
+
+- Set up GitHub Pages journal:  
+  👉 [https://promakhossec.github.io/The-Promakhos-Protocol/](https://promakhossec.github.io/The-Promakhos-Protocol/)
+- Chose a strategic pseudonym: **Promakhos** 
+- Logged Day 1 as public commitment
+- Selected learning path:  
+  👉 [TryHackMe: Pre-Security Path](https://tryhackme.com/path/outline/presecurity)
 
 ---
 
-**Reflection:**  
-_"The start feels overwhelming — like staring at a black ocean with no map. But I’m not here to be safe. I’m here to become formidable."_  
+## 🧠 Mindset
+
+I completed Google’s Cybersecurity Professional Certificate.  
+Useful for theory, weak on tactical ability.  
+**This is where the war begins.** No watching. No consuming. Only action and understanding.
+
+---
+
+## 📅 Next Steps (Day 2)
+
+- Complete two rooms on TryHackMe:
+  - ✅ Introduction to Cyber Security
+  - ✅ Cyber Security Basics
+- Start CEH Module 1: Introduction to Ethical Hacking
+- Log all insights in `day2.md`: commands used, tools explored, concepts learned
